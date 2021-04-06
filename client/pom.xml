@@ -21,4 +21,18 @@
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.gorden5566</groupId>
+            <artifactId>common</artifactId>
+            <version>1.0-low-RELEASE</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.gorden5566</groupId>
+            <artifactId>sdk</artifactId>
+            <version>1.0-low-RELEASE</version>
+        </dependency>
+    </dependencies>
+
 </project>
